@@ -1,1 +1,62 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+env/
+venv/
+.venv/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Jupyter runtime files
+.jupyter/
+.local/share/jupyter/
+
+# Notebook metadata backups
+*.nbconvert.ipynb
+
+# --- OS / Editor files ---
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+.history/
+
+# --- Virtual Environment ---
+.venv/
+env/
+*.env
+*.env.*
+
+# --- Cache ---
+*.cache/
+.cache/
+pip-wheel-metadata/
+__pycache__/
+.ipynb_checkpoints/
+
+# --- Logs ---
+*.log
+
+# --- Large temporary files ---
+*.h5
+*.hdf5
+*.sqlite
+*.db
+
+# --- Data files you don’t want in Git (optional) ---
+data/
+*.csv
+*.tsv
+*.parquet
+*.pickle
+*.pkl
+*.npy
+*.npz
+
 textbook/
