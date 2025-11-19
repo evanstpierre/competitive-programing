@@ -5,10 +5,11 @@ The following repo contains core concepts and problems (with solutions). Many of
 
 **Objectives:**
 
-To review algorithm concepts (Greedy, Dynamic Programming and Amortized Analysis). To review system design concepts. To review and learn  With the goal of preparing myself for technical Interviews.
+To review algorithm concepts (Greedy, Dynamic Programming and Amortized Analysis,...). To review system design concepts and compile examples. 
 
-
-
+**Intended Audience**
+* Student/Programmer who wants to refresh their knowledege for technical interview
+* Newer to Computer Science: Use *-sol.pynp* as a guide and read *Competatives Programmers Handbook*
 
 
 
